@@ -19,7 +19,7 @@ slim = tf.contrib.slim
 dataset_dir = 'C:/Users/user/Desktop/flowers'
 
 ###訓練模型放的位置
-log_dir = 'C:/Users/user/Desktop/zpnlog1'
+log_dir = 'C:/Users/user/Desktop/log1'
 
 ###Pre-trained讀入ckpt檔位置
 checkpoint_file = 'C:/Users/user/tmp/checkpoints/inception_v3.ckpt'
