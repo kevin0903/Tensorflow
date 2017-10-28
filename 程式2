@@ -1,7 +1,7 @@
 import tensorflow as tf
 import os
 import time
-===========讀入相關套件============
+#===========讀入相關套件============
 import sys
 sys.path.append('C:/Users/user/models/research/slim/preprocessing')
 sys.path.append('C:/Users/user/models/research/slim/nets')
